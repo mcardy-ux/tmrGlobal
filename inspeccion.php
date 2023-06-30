@@ -9,8 +9,8 @@
                 <div class="team_img mb-md-80">
                 <div class="swiper mySwiper">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide"> <img src="../assets/images/services/inspeccion/1.jpg" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
-                        <div class="swiper-slide"> <img src="../assets/images/services/inspeccion/2.jpg" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
+                        <div class="swiper-slide"> <img src="assets\images\services\inspeccion\1.jpg" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 25px; visibility: visible; animation-name: fadeInLeft;"></div>
+                        <div class="swiper-slide"> <img src="assets\images\services\inspeccion\2.jpg" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 25px; visibility: visible; animation-name: fadeInLeft;"></div>
                     </div>
                     <div class="swiper-button-next"></div>
                     <div class="swiper-button-prev"></div>

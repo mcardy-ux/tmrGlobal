@@ -193,7 +193,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="team_block style_2 style_3 wow fadeInUp" data-wow-delay=.10ms>
                     <div class=team_img>
-                        <a href=motor_tv3.php><img src=assets/images/team/1.jpg alt=img class=image-fit></a>
+                        <a href=motor_tv3.php><img src=assets/images/team/2.1.jpg alt=img class=image-fit></a>
                         <a href=motor_tv3.php class="thm-btn bg-thm-color-two thm-color-two-shadow btn-circle link">
                             <i class="fal fa-plus"></i>
                         </a>
@@ -209,7 +209,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="team_block style_2 style_3 wow fadeInDown" data-wow-delay=.20ms>
                     <div class=team_img>
-                        <img src=assets/images/team/2.jpg alt=img class=image-fit>
+                        <img src=assets/images/team/2.JPG alt=img class=image-fit>
                         <a href=apu.php class="thm-btn bg-thm-color-two thm-color-two-shadow btn-circle link">
                             <i class="fal fa-plus"></i>
                         </a>
@@ -221,7 +221,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="team_block style_2 style_3 wow fadeInUp" data-wow-delay=.30ms>
                     <div class=team_img>
-                        <img src=assets/images/team/3.jpg alt=img class=image-fit>
+                        <img src=assets\images\team\3.jpg alt=img class=image-fit>
                         <a href=inspeccion.php class="thm-btn bg-thm-color-two thm-color-two-shadow btn-circle link">
                             <i class="fal fa-plus"></i>
                         </a>
@@ -233,7 +233,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="team_block style_2 style_3 wow fadeInDown" data-wow-delay=.40ms>
                     <div class=team_img>
-                        <img src=assets/images/team/4.jpg alt=img class=image-fit>
+                        <img src=assets/images/team/4.JPG alt=img class=image-fit>
                         <a href=banco.php class="thm-btn bg-thm-color-two thm-color-two-shadow btn-circle link">
                             <i class="fal fa-plus"></i>
                         </a>
@@ -257,7 +257,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="team_block style_2 style_3 wow fadeInDown" data-wow-delay=.60ms>
                     <div class=team_img>
-                        <img src=assets/images/team/6_2.jpg alt=img class=image-fit>
+                        <img src=assets/images/team/6.jpg alt=img class=image-fit>
                         <a href=lab.php class="thm-btn bg-thm-color-two thm-color-two-shadow btn-circle link">
                             <i class="fal fa-plus"></i>
                         </a>

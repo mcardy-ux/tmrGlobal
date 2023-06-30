@@ -47,7 +47,7 @@
                                 <h6>Telefonos de Contacto</h6>
                                 <p><strong>PBX: </strong> (601)5462414</p>
                                 <p><strong>Movil: </strong> <a href=https://wa.me/573153495551 style=color:#002E53!important><i class="fas fa-external-link-alt"></i> +57-3153495551</a></p>
-                                <p><strong>Movil: </strong> <a href=https://wa.me/3166182108 style=color:#002E53!important> <i class="fas fa-external-link-alt"></i> +57-3166182108</a></p>
+                                <p><strong>Movil: </strong> <a href=https://wa.me/3125838820 style=color:#002E53!important> <i class="fas fa-external-link-alt"></i> +57-3125838820</a></p>
                             </div>
                         </li>
                     </ul>

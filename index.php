@@ -224,9 +224,9 @@
             <div class="col-lg-6">
                 <div class="section-title left-align wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
                     <p class=mb-0 style=font-size:20px;text-align:justify;>
-                    Nuestros técnicos especialistas Bielorrusos quienes poseen experiencia alrededor del mundo, 
-                    en programación y actualización de software para Bancos de Prueba, han culminado la modernización 
-                    de nuestro sistema del banco para motores TV3-117 Series, dejándolo con la ultima tecnología de punta.
+                    Ingenieros especialistas quienes poseen experiencia alrededor del mundo,
+                     en programación y actualización de software para Bancos de Prueba, han culminado 
+                     la modernización de nuestro sistema del banco para motores TV3-117 Series, dejándolo con la última tecnología de punta.
                     </p>
                 </div>
 

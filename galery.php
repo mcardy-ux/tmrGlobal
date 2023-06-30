@@ -37,7 +37,7 @@
 <div class="col-lg-4 col-md-6 masonry-item reparacion  inspeccion">
         <div class="portfolio_box type_gallery">
             <div class=portfolio_img>
-                <img src=assets/images/portfolio/10.jpeg class=image-fit alt=img>
+                <img src=assets/images/portfolio/foto9.JPG class=image-fit alt=img>
             </div>
             <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
             <i class="fal fa-plus"></i>
@@ -47,7 +47,7 @@
     <div class="col-lg-4 col-md-6 masonry-item reparacion laboratorio inspeccion">
         <div class="portfolio_box type_gallery">
             <div class=portfolio_img>
-                <img src=assets/images/portfolio/11.jpeg class=image-fit alt=img>
+                <img src=assets/images/portfolio/foto10.jpg class=image-fit alt=img>
             </div>
             <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
             <i class="fal fa-plus"></i>
@@ -57,7 +57,7 @@
     <div class="col-lg-4 col-md-6 masonry-item reparacion laboratorio ">
         <div class="portfolio_box type_gallery">
             <div class=portfolio_img>
-                <img src=assets/images/portfolio/12.jpeg class=image-fit alt=img>
+                <img src=assets/images/portfolio/foto11.JPG class=image-fit alt=img>
             </div>
             <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
             <i class="fal fa-plus"></i>
@@ -69,7 +69,7 @@
     <div class="col-lg-4 col-md-6 masonry-item reparacion laboratorio inspeccion">
         <div class="portfolio_box type_gallery">
             <div class=portfolio_img>
-                <img src=assets/images/portfolio/1x.jpg class=image-fit alt=img>
+                <img src=assets/images/portfolio/foto12.JPG class=image-fit alt=img>
             </div>
             <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
             <i class="fal fa-plus"></i>
@@ -149,7 +149,7 @@
 <div class="col-lg-4 col-md-6 masonry-item inspeccion banco accesorios">
 <div class="portfolio_box type_gallery">
 <div class=portfolio_img>
-<img src=assets/images/portfolio/9x.jpg class=image-fit alt=img>
+<img src=assets/images/portfolio/foto13.JPG class=image-fit alt=img>
 </div>
 <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
 <i class="fal fa-plus"></i>

@@ -10,7 +10,7 @@
             </div>
             <div class=col-lg-6>
                 <div class=col-lg-12>
-                    <h3 class=title style=text-transform:initial;text-align:center>Laboratorio de accesorios y electronicos</h3><br>
+                    <h3 class=title style=text-transform:initial;text-align:center>Laboratorio de accesorios eléctricos y electrónicos</h3><br>
                 </div>
                 <div class="pl-0 pl-xl-5 pl-lg-3">
                     <p class="text wow fadeInUp" style=font-size:20px;text-align:justify>
