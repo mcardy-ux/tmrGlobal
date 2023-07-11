@@ -63,7 +63,7 @@
                 </div>
                 <div class=text>
                     <div class=counter>
-                        <b data-from=0 data-to=11>11</b>
+                        <b data-from=0 data-to=12>12</b>
                     </div>
                     <p class=mb-0>Años de Experiencia</p>
                 </div>
@@ -76,9 +76,9 @@
                 </div>
                 <div class=text>
                     <div class=counter>
-                        <b data-from=0 data-to=0>0</b>
+                        <b data-from=0 data-to=152>152</b>
                     </div>
-                    <p class=mb-0>Accidentes a la fecha</p>
+                    <p class=mb-0>Motores y APU probados en Banco</p>
                 </div>
             </div>
         </div>
@@ -90,7 +90,7 @@
                 </div>
                 <div class=text>
                     <div class=counter>
-                        <b data-from=0 data-to=360>360</b>
+                        <b data-from=0 data-to=392>392</b>
                     </div>
                     <p class=mb-0>Reparaciones de motores TV3-117 y APU AI-9V</p>
                 </div>
@@ -104,7 +104,7 @@
                 </div>
                 <div class=text>
                     <div class=counter>
-                        <b data-from=0 data-to=258>258</b>
+                        <b data-from=0 data-to=306>306</b>
                     </div>
                     <p class=mb-0>Mantenimiento de componentes y controles de combustible</p>
                 </div>
