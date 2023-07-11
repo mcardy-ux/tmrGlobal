@@ -14,7 +14,13 @@
                 </div>
                 <div class="pl-0 pl-xl-5 pl-lg-3">
                     <p class="text wow fadeInUp" style=font-size:20px;text-align:justify>
-                    Al finalizar el ensamble de los rotores después de su reparación es necesario realizar una compensación dinámica para evitar vibraciones durante su funcionamiento. Para ello TMR SAS, cuenta con una máquina de compensación computarizada, SCHENK, garantizando de esta manera su correcto funcionamiento.   
+                    Al finalizar el ensamble de los rotores del compresor y
+                    después de su reparación es necesario realizar una
+                    compensación dinámica para evitar vibraciones durante su
+                    funcionamiento; Para ello TMR SAS, cuenta con una máquina
+                    de compensación computarizada, marca SCHENK de
+                    fabricación alemana, garantizando el optimo funcionamiento
+                    del motor.   
                 </div>
             </div>
         </div>

@@ -10,7 +10,7 @@
         <div class="row ">
             <div class="col-lg-6">
                 <div class="image_box shadow_1 mb-md-80 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-                    <img src=assets/images/portfolio/1.png class style=display:block;margin:auto alt=img>
+                    <img src=assets/images/portfolio/1.jpg class style=display:block;margin:auto alt=img>
 
                 </div>
             </div>

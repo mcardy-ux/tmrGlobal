@@ -31,10 +31,15 @@
                     <div class="section-title left-align wow fadeInDown">
                         <h3 class="title wow">Nuestra Historia </h3>
                         <p class=mb-0 style="font-size:20px;text-align:justify">
-                        TMR S.A.S. creado para brindar una solución a los operadores de aeronaves Mi-8/17/171 
-                        Series propulsadas con motores Modelo TV3-117 Series y sus accesorios para realizar inspección, 
-                        mantenimiento, prueba funcional y reparación. Posee el único Banco de Prueba en el continente Americano, 
-                        debidamente aprobado y certificado con equipos y software de última tecnología.
+                            TMR S.A.S. fue creado para brindar una solución a los
+                            operadores de aeronaves Mi-8/17/171 Series propulsadas con
+                            motores Modelo TV3-117 Series y sus accesorios para realizar
+                            inspección, mantenimiento, prueba funcional y reparación a los
+                            motores. 
+                            <br>
+                            Poseemos el único Banco de Prueba para motores en el
+                            continente Americano, debidamente aprobado y certificado con
+                            equipos y software de última tecnología.
                         </p>
                         <br>
                         <br>
@@ -58,8 +63,10 @@
                         </ul>
 
                         <p class=mb-0 style=font-size:20px;text-align:justify;>
-                        El personal técnico de TMR SAS es entrenado por especialistas en diferentes fábricas de Rusia 
-                        y Ucrania, con un plan de entrenamiento continuo dentro del marco de transferencia tecnológica. 
+                        El personal técnico de TMR SAS es entrenado por especialistas
+                        en diferentes fábricas de Rusia y Ucrania, con un plan de
+                        entrenamiento continuo dentro del marco de transferencia
+                        tecnológica. 
                         </p>
                     </div>
                 </div>
@@ -92,7 +99,7 @@
                 </div>
                 <div class=text>
                     <div class=counter>
-                        <b data-from=0 data-to=11>11</b>
+                        <b data-from=0 data-to=12>12</b>
                     </div>
                     <p class=mb-0>Años de Experiencia</p>
                 </div>
@@ -105,9 +112,9 @@
                 </div>
                 <div class=text>
                     <div class=counter>
-                        <b data-from=0 data-to=0>0</b>
+                        <b data-from=0 data-to=152>152</b>
                     </div>
-                    <p class=mb-0>Accidentes a la fecha</p>
+                    <p class=mb-0>Motores y APU probados en Banco</p>
                 </div>
             </div>
         </div>
@@ -119,7 +126,7 @@
                 </div>
                 <div class=text>
                     <div class=counter>
-                        <b data-from=0 data-to=360>360</b>
+                        <b data-from=0 data-to=392>392</b>
                     </div>
                     <p class=mb-0>Reparaciones de motores TV3-117 y APU AI-9V</p>
                 </div>
@@ -133,7 +140,7 @@
                 </div>
                 <div class=text>
                     <div class=counter>
-                        <b data-from=0 data-to=258>258</b>
+                        <b data-from=0 data-to=306>306</b>
                     </div>
                     <p class=mb-0>Mantenimiento de componentes y controles de combustible</p>
                 </div>
@@ -246,43 +253,47 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+             <div class="row">
             <!-- Block Start -->
             <div class="col-lg col-md-6">
                 <div class="team_block wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-
-                    <img src="assets/images/certificates/icontec.png" loading="lazy" alt="img" class="image-fit" style="width: 130px;">
-
+                    <img src="assets/images/certificates/mtc.jpg" loading="lazy" alt="MTC perú" class="image-fit" style="width: 200px;">
                 </div>
             </div>
             <!-- Block End -->
             <!-- Block Start -->
             <div class="col-lg col-md-3">
                 <div class="team_block wow fadeInUp" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                    <img src="assets/images/certificates/anac.png" loading="lazy" alt="img" class="image-fit" style="width: 200px;">
+                    <img src="assets/images/certificates/anac.png" loading="lazy" alt="anac" class="image-fit" style="width: 200px;">
                 </div>
             </div>
             <!-- Block End -->
             <!-- Block Start -->
             <div class="col-lg col-md-3">
                 <div class="team_block wow fadeInUp" data-wow-delay=".7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;">
-                    <img src="assets/images/certificates/iqnet.png" loading="lazy" alt="img" class="image-fit" style="width: 200px;">
+                    <img src="assets/images/certificates/iqnet.png" loading="lazy" alt="iqnet" class="image-fit" style="width: 200px;">
                 </div>
             </div>
             <!-- Block End -->
             <!-- Block Start -->
             <div class="col-lg col-md-3">
                 <div class="team_block wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
-                    <img src="assets/images/certificates/dac.png" loading="lazy" alt="img" class="image-fit" style="width: 200px;">
+                    <img src="assets/images/certificates/dac.png" loading="lazy" alt="dac" class="image-fit" style="width: 200px;">
                 </div>
             </div>
             <!-- Block End -->
             <div class="col-lg col-md-3">
                 <div class="team_block wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
-                    <img src="assets/images/certificates/aeronautica.png" loading="lazy" alt="img" class="image-fit" style="width: 280px;">
+                    <img src="assets/images/certificates/aeronautica.png" loading="lazy" alt="aeronautica civil" class="image-fit" style="width: 400px;">
                 </div>
             </div>
-
+            <!-- Block Start -->
+            <div class="col-lg col-md-3">
+                <div class="team_block wow fadeInUp" data-wow-delay=".7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;">
+                    <img src="assets/images/certificates/icontec.png" loading="lazy" alt="icontec" class="image-fit" style="width: 160px;">
+                </div>
+            </div>
+            <!-- Block End -->
         </div>
     </div>
 </section>

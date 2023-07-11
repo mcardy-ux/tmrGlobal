@@ -19,7 +19,7 @@
                     <p class="subtitle">
                         <img src="assets/images/flags/3.png" width=30px height=20px alt=img> SC-CER 171626
                     </p>
-                    <h3 class="title">ICONTECT ISO 9001:2015 </h3>
+                    <h3 class="title">ICONTEC ISO 9001:2015 </h3>
                 </div>
                 
                 <div class="btn_box mb-xl-30">

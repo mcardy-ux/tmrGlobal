@@ -84,7 +84,9 @@
                 <div class="col-xl-7 col-lg-7 mb-md-80">
                     <div class="section-title left-align wow fadeInDown">
                         <h3 class="title wow">Reparación Motor TV3-117</h3>
-                        <p style=font-size:20px>TMR S.A.S, está en capacidad técnica y administrativa de prestar los Servicios de Mantenimiento y Reparación a los motores TV3-117 Series, y los accesorios relacionados en la lista de capacidades, basados en programas establecidos por los fabricantes. TMR S.A.S, puede prestar servicios de mantenimiento de línea Clase II a los motores TV3-117 Series y sus accesorios en las aeronaves MI8-MTV-1 y MI-171 Series.
+                        <p style=font-size:20px>TMR S.A.S, está en capacidad técnica y administrativa de prestar los Servicios de Mantenimiento y Reparación a los motores
+                        TV3-117 Series, y los accesorios relacionados en la lista de capacidades, basados en programas establecidos por los fabricantes.<br>
+                        TMR S.A.S, puede prestar servicios de mantenimiento de línea Clase II a los motores TV3-117 Series y sus accesorios en las aeronaves MI8-MTV-1 y MI-171 Series.
                         </p>
                         <br>
 
