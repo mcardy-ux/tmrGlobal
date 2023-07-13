@@ -5,23 +5,29 @@
         <div class=row>
             <div class=col-12>
                 <div class="section-title wow fadeInUp">
-                    
-                    <h3 class=title style=text-transform:initial>Contact Us</h3>
+                    <p class=subtitle>
+                        <i class="fal fa-book"></i>
+                        Support team
+                    </p>
+                    <h3 class=title style=text-transform:initial>Contact us now.</h3>
                 </div>
             </div>
         </div>
         <div class="row align-items-center">
             <div class="col-xl-6 col-lg-6">
                 <div class="section-title left-align wow fadeInDown">
- 
+                    <p class=subtitle>
+                        <i class="fal fa-book"></i>
+                        Locate us in any means of contact
+                    </p>
                 </div>
                 <div class="contact_info mb-md-80">
                     <ul>
                         <li class="wow fadeInUp">
                             <i class="icon fal fa-map-marker-alt"></i>
                             <div class=text>
-                                <h6>Address:</h6>
-                                <p>International Airport El Dorado<br>
+                                <h6>Location</h6>
+                                <p>El Dorado International Airport<br>
                                     Nueva Zona de Aviación General – Hangar 19.<br>
                                     Bogotá D.C. – Colombia</p>
                             </div>
@@ -31,18 +37,17 @@
                             <div class=text>
                                 <h6>Emails</h6>
                                 <p> <a href=mailto:jpimentel@tmr.com.co style=color:#002E53!important><i class="fas fa-external-link-alt"></i> jpimentel@tmr.com.co </a><br>
-                                    <a href=mailto:jtuta@tmr.com.co style=color:#002E53!important><i class="fas fa-external-link-alt"></i> jtuta@tmr.com.co</a><br>
-                                    <a href=mailto:notificaciones@tmr.com.co style=color:#002E53!important><i class="fas fa-external-link-alt"></i> notificaciones@tmr.com.co</a>
+                                    <a href=mailto:jtuta@tmr.com.co style=color:#002E53!important><i class="fas fa-external-link-alt"></i> jtuta@tmr.com.co</a>
                                 </p>
                             </div>
                         </li>
                         <li class="wow fadeInUp">
                             <i class="icon fal fa-phone"></i>
                             <div class=text>
-                                <h6>Telephone</h6>
+                                <h6>Telephone contacts</h6>
                                 <p><strong>PBX: </strong> (601)5462414</p>
-                                <p><strong>Mobile: </strong> <a href=https://wa.me/573153495551 style=color:#002E53!important><i class="fas fa-external-link-alt"></i> +57-3153495551</a></p>
-                                <p><strong>Mobile: </strong> <a href=https://wa.me/573125838820 style=color:#002E53!important> <i class="fas fa-external-link-alt"></i> +57-3125838820</a></p>
+                                <p><strong>Movil: </strong> <a href=https://wa.me/573153495551 style=color:#002E53!important><i class="fas fa-external-link-alt"></i> +57-3153495551</a></p>
+                                <p><strong>Movil: </strong> <a href=https://wa.me/3125838820 style=color:#002E53!important> <i class="fas fa-external-link-alt"></i> +57-3125838820</a></p>
                             </div>
                         </li>
                     </ul>
@@ -63,13 +68,16 @@
 
 
 
-<section class="section section-bg" style=background-image:url(../assets/images/bg/bg_1.png)>
+<section class="section section-bg" style=background-image:url(assets/images/bg/bg_1.png)>
     <div class=container>
         <div class=row>
             <div class=col-12>
                 <div class="section-title wow fadeInUp">
-                   
-                    <h3 class=title style=text-transform:initial>Costumers Say</h3>
+                    <p class=subtitle style=text-transform:initial>
+                        <i class="fal fa-book"></i>
+                        Quality services
+                    </p>
+                    <h3 class=title style=text-transform:initial>Assessment of our clients</h3>
                 </div>
             </div>
         </div>
@@ -107,22 +115,22 @@
             <div class="testimonial_slider_nav col-lg-7">
                 <div class=slide-item>
                     <div class=testimonial_item_img>
-                        <img src="../assets/images/author/1.png" loading="lazy" class=image-fit alt=img>
+                        <img src="assets/images/author/1.png" loading="lazy" class=image-fit alt=img>
                     </div>
                 </div>
                 <div class=slide-item>
                     <div class=testimonial_item_img>
-                        <img src=../assets/images/author/2.png loading="lazy" class=image-fit alt=img>
+                        <img src=assets/images/author/2.png loading="lazy" class=image-fit alt=img>
                     </div>
                 </div>
                 <div class=slide-item>
                     <div class=testimonial_item_img>
-                        <img src=../assets/images/author/3.jpg loading="lazy" class=image-fit alt=img>
+                        <img src=assets/images/author/3.jpg loading="lazy" class=image-fit alt=img>
                     </div>
                 </div>
                 <div class=slide-item>
                     <div class=testimonial_item_img>
-                        <img src=../assets/images/author/2.jpg loading="lazy" class=image-fit alt=img>
+                        <img src=assets/images/author/2.jpg loading="lazy" class=image-fit alt=img>
                     </div>
                 </div>
             </div>
