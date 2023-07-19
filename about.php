@@ -23,7 +23,7 @@
 
             <div class=col-lg-6>
                 <div class="image_box relative z-1 text-center about_me">
-                    <img src=assets/images/about/about_me.jpg alt=img class="wow fadeInRight" style=visibility:visible;animation-name:fadeInRight;border-radius:23px>
+                    <img src="assets/images/about/about_me.jpg" alt=img class="wow fadeInRight" style=visibility:visible;animation-name:fadeInRight;border-radius:23px>
                     <span class="bg-thm-color-three circle_element"></span>
                     <div class="progress_box grid wow fadeInDown" style=visibility:visible;animation-name:fadeInDown>
                         <div class=circle_bar data-percent=100 data-track-color=#ecf2ff data-bar-color=#68BC13 data-size=100>
