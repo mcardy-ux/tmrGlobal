@@ -1,5 +1,5 @@
 <?php require 'header_menu.php'; ?>
-<section class="section-padding team_details" style="background-image:url(assets/images/bg/bg_6.png)">
+<section class="section-padding team_details" style="background-image:url(../assets/images/bg/bg_6.png)">
     <div class="container">
         <div class="row align-items-center">
         <div class="col-lg-12">

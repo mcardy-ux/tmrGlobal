@@ -15,15 +15,15 @@
                 <div class=" buttons_header " style=" text-align: center;">
                 </div>
             </div>
-            <img src=assets/images/elements/element_20.png alt=element loading="lazy" class="element_1 slideRightTwo">
-            <img src=assets/images/elements/element_21.png alt=element loading="lazy" class="element_3 rotate_elem">
-            <img src=assets/images/elements/element_20.png alt=element loading="lazy" class="element_4 rotate_elem">
+            <img src=../assets/images/elements/element_20.png alt=element loading="lazy" class="element_1 slideRightTwo">
+            <img src=../assets/images/elements/element_21.png alt=element loading="lazy" class="element_3 rotate_elem">
+            <img src=../assets/images/elements/element_20.png alt=element loading="lazy" class="element_4 rotate_elem">
         </div>
     </div>
 </div>
 </div>
 <div class="section-padding pt-0" id="who"></div>
-<section class="section-padding side_bg" style=background-image:url(assets/images/bg/bg_5.png)>
+<section class="section-padding side_bg" style=background-image:url(../assets/images/bg/bg_5.png)>
     <div class=container>
         <div class="section-padding pt-0">
             <div class="row align-items-center justify-content-between">
@@ -46,7 +46,7 @@
                         <ul class="about_list row">
                             <li class="col-md-6 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                                 <div class="icon">
-                                    <img src="assets/images/motors/apu.png" loading="lazy" alt="img" class="image-fit">
+                                    <img src="../assets/images/motors/apu.png" loading="lazy" alt="img" class="image-fit">
                                 </div>
                                 <div class="text">
                                     <h6 class="mb-2"><strong>APU AI – 9V <br>(AИ – 9B).</strong></h6>
@@ -54,7 +54,7 @@
                             </li>
                             <li class="col-md-6 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                                 <div class="icon">
-                                    <img src="assets/images/motors/tv3.png" loading="lazy" alt="img" class="image-fit">
+                                    <img src="../assets/images/motors/tv3.png" loading="lazy" alt="img" class="image-fit">
                                 </div>
                                 <div class="text">
                                     <h6 class="mb-2"><strong> TV3 – 117 VM Series <br>(TB3-117BM Series)</strong></h6>
@@ -72,7 +72,7 @@
                 </div>
                 <div class=col-lg-5>
                     <div class="image_box relative z-1 text-center about_me">
-                        <img src="assets/images/motors/engine_back.gif" class="animated fadeOutRight" alt="img" style="visibility: visible; animation-name: fadeInDown;">
+                        <img src="../assets/images/motors/engine_back.gif" class="animated fadeOutRight" alt="img" style="visibility: visible; animation-name: fadeInDown;">
                     </div>
                 </div>
 
@@ -95,7 +95,7 @@
         <div class="col-lg-3 col-md-6">
             <div class="counter_box wow fadeInUp" data-wow-delay=.2s style=visibility:visible;animation-delay:.2s;animation-name:fadeInUp>
                 <div class=icon>
-                    <img src=assets/images/icons/icon_6.png alt=icon class=image-fit>
+                    <img src=../assets/images/icons/icon_6.png alt=icon class=image-fit>
                 </div>
                 <div class=text>
                     <div class=counter>
@@ -108,7 +108,7 @@
         <div class="col-lg-3 col-md-6">
             <div class="counter_box wow fadeInUp" data-wow-delay=.8s style=visibility:visible;animation-delay:.8s;animation-name:fadeInUp>
                 <div class=icon>
-                    <img src=assets/images/icons/icon_9.png alt=icon class=image-fit>
+                    <img src=../assets/images/icons/icon_9.png alt=icon class=image-fit>
                 </div>
                 <div class=text>
                     <div class=counter>
@@ -122,7 +122,7 @@
         <div class="col-lg-3 col-md-6">
             <div class="counter_box wow fadeInUp" data-wow-delay=.4s style=visibility:visible;animation-delay:.4s;animation-name:fadeInUp>
                 <div class=icon>
-                    <img src=assets/images/icons/icon_7.png alt=icon class=image-fit>
+                    <img src=../assets/images/icons/icon_7.png alt=icon class=image-fit>
                 </div>
                 <div class=text>
                     <div class=counter>
@@ -136,7 +136,7 @@
         <div class="col-lg-3 col-md-6">
             <div class="counter_box wow fadeInUp" data-wow-delay=.8s style=visibility:visible;animation-delay:.8s;animation-name:fadeInUp>
                 <div class=icon>
-                    <img src=assets/images/icons/icon_9.png alt=icon class=image-fit>
+                    <img src=../assets/images/icons/icon_9.png alt=icon class=image-fit>
                 </div>
                 <div class=text>
                     <div class=counter>
@@ -222,7 +222,7 @@
             <div class="col-lg-6">
                 <div class="image_box shadow_1 mb-md-80 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
                     <video id="video" loop autoplay preload muted controls style="width:100%">
-                        <source src="assets/images/videos/banco.mp4" type="video/mp4" ; codecs="avc1,mp4a" />
+                        <source src="../assets/images/videos/banco.mp4" type="video/mp4" ; codecs="avc1,mp4a" />
                         <source src="video.ogg" type="video/ogg;" codecs="theora,vorbis" />
                         <source src="video.webm" type="video/webm;" codecs="vp8,vorbis" />
                     </video>
@@ -243,7 +243,7 @@
 </section>
 
 
-<section class="section-padding" style="background-image: url(assets/images/bg/bg_2.png);">
+<section class="section-padding" style="background-image: url(../assets/images/bg/bg_2.png);">
 
     <div class="container">
         <div class="row">
@@ -257,40 +257,40 @@
             <!-- Block Start -->
             <div class="col-lg col-md-6">
                 <div class="team_block wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                    <img src="assets/images/certificates/mtc.jpg" loading="lazy" alt="MTC perú" class="image-fit" style="width: 200px;">
+                    <img src="../assets/images/certificates/mtc.jpg" loading="lazy" alt="MTC perú" class="image-fit" style="width: 200px;">
                 </div>
             </div>
             <!-- Block End -->
             <!-- Block Start -->
             <div class="col-lg col-md-3">
                 <div class="team_block wow fadeInUp" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                    <img src="assets/images/certificates/anac.png" loading="lazy" alt="anac" class="image-fit" style="width: 200px;">
+                    <img src="../assets/images/certificates/anac.png" loading="lazy" alt="anac" class="image-fit" style="width: 200px;">
                 </div>
             </div>
             <!-- Block End -->
             <!-- Block Start -->
             <div class="col-lg col-md-3">
                 <div class="team_block wow fadeInUp" data-wow-delay=".7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;">
-                    <img src="assets/images/certificates/iqnet.png" loading="lazy" alt="iqnet" class="image-fit" style="width: 200px;">
+                    <img src="../assets/images/certificates/iqnet.png" loading="lazy" alt="iqnet" class="image-fit" style="width: 200px;">
                 </div>
             </div>
             <!-- Block End -->
             <!-- Block Start -->
             <div class="col-lg col-md-3">
                 <div class="team_block wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
-                    <img src="assets/images/certificates/dac.png" loading="lazy" alt="dac" class="image-fit" style="width: 200px;">
+                    <img src="../assets/images/certificates/dac.png" loading="lazy" alt="dac" class="image-fit" style="width: 200px;">
                 </div>
             </div>
             <!-- Block End -->
             <div class="col-lg col-md-3">
                 <div class="team_block wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
-                    <img src="assets/images/certificates/aeronautica.png" loading="lazy" alt="aeronautica civil" class="image-fit" style="width: 400px;">
+                    <img src="../assets/images/certificates/aeronautica.png" loading="lazy" alt="aeronautica civil" class="image-fit" style="width: 400px;">
                 </div>
             </div>
             <!-- Block Start -->
             <div class="col-lg col-md-3">
                 <div class="team_block wow fadeInUp" data-wow-delay=".7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;">
-                    <img src="assets/images/certificates/icontec.png" loading="lazy" alt="icontec" class="image-fit" style="width: 160px;">
+                    <img src="../assets/images/certificates/icontec.png" loading="lazy" alt="icontec" class="image-fit" style="width: 160px;">
                 </div>
             </div>
             <!-- Block End -->

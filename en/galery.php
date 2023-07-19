@@ -37,7 +37,7 @@
 <div class="col-lg-4 col-md-6 masonry-item banco ">
         <div class="portfolio_box type_gallery">
             <div class=portfolio_img>
-                <img src=assets/images/portfolio/foto9.JPG class=image-fit alt=img>
+                <img src=../assets/images/portfolio/foto9.JPG class=image-fit alt=img>
             </div>
             <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
             <i class="fal fa-plus"></i>
@@ -47,7 +47,7 @@
     <div class="col-lg-4 col-md-6 masonry-item reparacion ">
         <div class="portfolio_box type_gallery">
             <div class=portfolio_img>
-                <img src=assets/images/portfolio/foto10.jpg class=image-fit alt=img>
+                <img src=../assets/images/portfolio/foto10.jpg class=image-fit alt=img>
             </div>
             <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
             <i class="fal fa-plus"></i>
@@ -57,7 +57,7 @@
     <div class="col-lg-4 col-md-6 masonry-item banco ">
         <div class="portfolio_box type_gallery">
             <div class=portfolio_img>
-                <img src=assets/images/portfolio/foto11.JPG class=image-fit alt=img>
+                <img src=../assets/images/portfolio/foto11.JPG class=image-fit alt=img>
             </div>
             <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
             <i class="fal fa-plus"></i>
@@ -69,7 +69,7 @@
     <div class="col-lg-4 col-md-6 masonry-item reparacion ">
         <div class="portfolio_box type_gallery">
             <div class=portfolio_img>
-                <img src=assets/images/portfolio/foto12.JPG class=image-fit alt=img>
+                <img src=../assets/images/portfolio/foto12.JPG class=image-fit alt=img>
             </div>
             <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
             <i class="fal fa-plus"></i>
@@ -79,7 +79,7 @@
 <div class="col-lg-4 col-md-6 masonry-item reparacion ">
 <div class="portfolio_box type_gallery">
 <div class=portfolio_img>
-<img src=assets/images/portfolio/2x.jpg class=image-fit alt=img>
+<img src=../assets/images/portfolio/2x.jpg class=image-fit alt=img>
 </div>
 <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
 <i class="fal fa-plus"></i>
@@ -89,7 +89,7 @@
 <div class="col-lg-4 col-md-6 masonry-item inspeccion ">
 <div class="portfolio_box type_gallery">
 <div class=portfolio_img>
-<img src=assets/images/portfolio/3x.jpg class=image-fit alt=img>
+<img src=../assets/images/portfolio/3x.jpg class=image-fit alt=img>
 </div>
 <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
 <i class="fal fa-plus"></i>
@@ -99,7 +99,7 @@
 <div class="col-lg-4 col-md-6 masonry-item reparacion ">
 <div class="portfolio_box type_gallery">
 <div class=portfolio_img>
-<img src=assets/images/portfolio/4x.jpg class=image-fit alt=img>
+<img src=../assets/images/portfolio/4x.jpg class=image-fit alt=img>
 </div>
 <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
 <i class="fal fa-plus"></i>
@@ -109,7 +109,7 @@
 <div class="col-lg-4 col-md-6 masonry-item reparacion ">
 <div class="portfolio_box type_gallery">
 <div class=portfolio_img>
-<img src=assets/images/portfolio/5x.jpg class=image-fit alt=img>
+<img src=../assets/images/portfolio/5x.jpg class=image-fit alt=img>
 </div>
 <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
 <i class="fal fa-plus"></i>
@@ -119,7 +119,7 @@
 <div class="col-lg-4 col-md-6 masonry-item banco ">
 <div class="portfolio_box type_gallery">
 <div class=portfolio_img>
-<img src=assets/images/portfolio/6x.jpg class=image-fit alt=img>
+<img src=../assets/images/portfolio/6x.jpg class=image-fit alt=img>
 </div>
 <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
 <i class="fal fa-plus"></i>
@@ -129,7 +129,7 @@
 <div class="col-lg-4 col-md-6 masonry-item inspeccion ">
 <div class="portfolio_box type_gallery">
 <div class=portfolio_img>
-<img src=assets/images/portfolio/7x.jpg class=image-fit alt=img>
+<img src=../assets/images/portfolio/7x.jpg class=image-fit alt=img>
 </div>
 <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
 <i class="fal fa-plus"></i>
@@ -139,7 +139,7 @@
 <div class="col-lg-4 col-md-6 masonry-item accesorios ">
 <div class="portfolio_box type_gallery">
 <div class=portfolio_img>
-<img src=assets/images/portfolio/8x.jpg class=image-fit alt=img>
+<img src=../assets/images/portfolio/8x.jpg class=image-fit alt=img>
 </div>
 <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
 <i class="fal fa-plus"></i>
@@ -149,7 +149,7 @@
 <div class="col-lg-4 col-md-6 masonry-item reparacion">
 <div class="portfolio_box type_gallery">
 <div class=portfolio_img>
-<img src=assets/images/portfolio/foto13.JPG class=image-fit alt=img>
+<img src=../assets/images/portfolio/foto13.JPG class=image-fit alt=img>
 </div>
 <a href="https://www.instagram.com/tmr.global/?hl=es" class=link>
 <i class="fal fa-plus"></i>

@@ -45,17 +45,17 @@
         </div>
     </div>
 </div>
-<section class="section-padding team_details" style="background-image:url(assets/images/bg/bg_6.png)">
+<section class="section-padding team_details" style="background-image:url(../assets/images/bg/bg_6.png)">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="team_img mb-md-80">
                 <div class="swiper mySwiper">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide"><img src="assets/images/services/APU/apu1.JPG" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
-                        <div class="swiper-slide"><img src="assets/images/services/APU/apu2.JPG" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
-                        <div class="swiper-slide"><img src="assets/images/services/APU/apu3.JPG" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
-                        <div class="swiper-slide"><img src="assets/images/services/APU/apu4.JPG" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
+                        <div class="swiper-slide"><img src="../assets/images/services/APU/apu1.JPG" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
+                        <div class="swiper-slide"><img src="../assets/images/services/APU/apu2.JPG" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
+                        <div class="swiper-slide"><img src="../assets/images/services/APU/apu3.JPG" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
+                        <div class="swiper-slide"><img src="../assets/images/services/APU/apu4.JPG" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
                         
                     </div>
                     <div class="swiper-button-next"></div>

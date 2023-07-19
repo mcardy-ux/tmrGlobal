@@ -77,7 +77,7 @@
 </div>
 
 
-<section class="section-padding side_bg" style=background-image:url(assets/images/bg/bg_5.png)>
+<section class="section-padding side_bg" style=background-image:url(../assets/images/bg/bg_5.png)>
     <div class=container>
         <div class="section-padding pt-0">
             <div class="row align-items-center justify-content-between">
@@ -113,10 +113,10 @@
                 <div class="team_img mb-md-80">
                 <div class="swiper mySwiper">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide"><img src="assets/images/services/tv_1.jpg" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
-                        <div class="swiper-slide"><img src="assets/images/services/tv_2.jpg" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
-                        <div class="swiper-slide"><img src="assets/images/services/tv_3.jpg" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
-                        <div class="swiper-slide"><img src="assets/images/services/tv_4.jpg" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
+                        <div class="swiper-slide"><img src="../assets/images/services/tv_1.jpg" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
+                        <div class="swiper-slide"><img src="../assets/images/services/tv_2.jpg" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
+                        <div class="swiper-slide"><img src="../assets/images/services/tv_3.jpg" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
+                        <div class="swiper-slide"><img src="../assets/images/services/tv_4.jpg" alt="img" class="image-fit wow fadeInLeft" style="border-radius: 30px; visibility: visible; animation-name: fadeInLeft;"></div>
 
                     </div>
                     <div class="swiper-button-next"></div>
@@ -127,7 +127,7 @@
                 <div class="post style_2 post_video wow fadeInUp" data-wow-delay=.40ms style=visibility:visible;animation-delay:.4ms;animation-name:fadeInUp;background-color:transparent!important>
                     <div class=post_img>
                         <video autoplay muted loop width=511 height=275>
-                            <source src=assets/images/services/tv_v_1.mp4 type=video/mp4>
+                            <source src=../assets/images/services/tv_v_1.mp4 type=video/mp4>
                             <source src=movie.ogg type=video/ogg>
                             Your browser does not support the video tag.
                         </video>

@@ -68,7 +68,7 @@
 
 
 
-<section class="section section-bg" style=background-image:url(assets/images/bg/bg_1.png)>
+<section class="section section-bg" style=background-image:url(../assets/images/bg/bg_1.png)>
     <div class=container>
         <div class=row>
             <div class=col-12>
@@ -115,22 +115,22 @@
             <div class="testimonial_slider_nav col-lg-7">
                 <div class=slide-item>
                     <div class=testimonial_item_img>
-                        <img src="assets/images/author/1.png" loading="lazy" class=image-fit alt=img>
+                        <img src="../assets/images/author/1.png" loading="lazy" class=image-fit alt=img>
                     </div>
                 </div>
                 <div class=slide-item>
                     <div class=testimonial_item_img>
-                        <img src=assets/images/author/2.png loading="lazy" class=image-fit alt=img>
+                        <img src=../assets/images/author/2.png loading="lazy" class=image-fit alt=img>
                     </div>
                 </div>
                 <div class=slide-item>
                     <div class=testimonial_item_img>
-                        <img src=assets/images/author/3.jpg loading="lazy" class=image-fit alt=img>
+                        <img src=../assets/images/author/3.jpg loading="lazy" class=image-fit alt=img>
                     </div>
                 </div>
                 <div class=slide-item>
                     <div class=testimonial_item_img>
-                        <img src=assets/images/author/2.jpg loading="lazy" class=image-fit alt=img>
+                        <img src=../assets/images/author/2.jpg loading="lazy" class=image-fit alt=img>
                     </div>
                 </div>
             </div>

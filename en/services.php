@@ -121,7 +121,7 @@
         </div>
     </div>
 </div>
-<section class="section-padding side_bg" style=background-image:url(assets/images/bg/bg_5.png)>
+<section class="section-padding side_bg" style=background-image:url(../assets/images/bg/bg_5.png)>
     <div class=container>
         <div class="section-padding pt-0">
             <div class="row align-items-center justify-content-between">
@@ -155,7 +155,7 @@
                 <div class=col-lg-5>
                     <div class="image_box relative z-1 text-center about_me">
                         <video autoplay muted loop width=338 height=551 style=background-color:#a5b5cc;border:#fff;border-radius:40px;border-style:groove>
-                            <source src=assets/images/videos/1.mp4 type=video/mp4>
+                            <source src=../assets/images/videos/1.mp4 type=video/mp4>
                             <source src=movie.ogg type=video/ogg>
                             Your browser does not support the video tag.
                         </video>
@@ -175,7 +175,7 @@
     </div>
 
 </section>
-<section class="section-padding bg-thm-color-two-gradient style_2 z-1 team_page_bg" style=background-image:url(assets/images/bg/bg_6.png)>
+<section class="section-padding bg-thm-color-two-gradient style_2 z-1 team_page_bg" style=background-image:url(../assets/images/bg/bg_6.png)>
     <div class=container>
         <div class=row>
             <div class=col-12>
@@ -193,7 +193,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="team_block style_2 style_3 wow fadeInUp" data-wow-delay=.10ms>
                     <div class=team_img>
-                        <a href=motor_tv3.php><img src=assets/images/team/2.1.jpg alt=img class=image-fit></a>
+                        <a href=motor_tv3.php><img src=../assets/images/team/2.1.jpg alt=img class=image-fit></a>
                         <a href=motor_tv3.php class="thm-btn bg-thm-color-two thm-color-two-shadow btn-circle link">
                             <i class="fal fa-plus"></i>
                         </a>
@@ -209,7 +209,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="team_block style_2 style_3 wow fadeInDown" data-wow-delay=.20ms>
                     <div class=team_img>
-                        <img src=assets/images/team/2.JPG alt=img class=image-fit>
+                        <img src=../assets/images/team/2.JPG alt=img class=image-fit>
                         <a href=apu.php class="thm-btn bg-thm-color-two thm-color-two-shadow btn-circle link">
                             <i class="fal fa-plus"></i>
                         </a>
@@ -233,7 +233,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="team_block style_2 style_3 wow fadeInDown" data-wow-delay=.40ms>
                     <div class=team_img>
-                        <img src=assets/images/team/4.JPG alt=img class=image-fit>
+                        <img src=../assets/images/team/4.JPG alt=img class=image-fit>
                         <a href=banco.php class="thm-btn bg-thm-color-two thm-color-two-shadow btn-circle link">
                             <i class="fal fa-plus"></i>
                         </a>
@@ -245,7 +245,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="team_block style_2 style_3 wow fadeInUp" data-wow-delay=.50ms>
                     <div class=team_img>
-                        <img src=assets/images/team/5_2.jpg alt=img class=image-fit>
+                        <img src=../assets/images/team/5_2.jpg alt=img class=image-fit>
                         <a href=balanceo.php class="thm-btn bg-thm-color-two thm-color-two-shadow btn-circle link">
                             <i class="fal fa-plus"></i>
                         </a>
@@ -257,7 +257,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="team_block style_2 style_3 wow fadeInDown" data-wow-delay=.60ms>
                     <div class=team_img>
-                        <img src=assets/images/team/6.jpg alt=img class=image-fit>
+                        <img src=../assets/images/team/6.jpg alt=img class=image-fit>
                         <a href=lab.php class="thm-btn bg-thm-color-two thm-color-two-shadow btn-circle link">
                             <i class="fal fa-plus"></i>
                         </a>

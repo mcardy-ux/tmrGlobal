@@ -17,7 +17,7 @@
                 
                 <div class="image_box shadow_1 mb-md-80 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
                     <video id="video" loop autoplay preload muted controls style="width:100%">
-                        <source src="assets/images/videos/banco.mp4" type="video/mp4" ; codecs="avc1,mp4a" />
+                        <source src="../assets/images/videos/banco.mp4" type="video/mp4" ; codecs="avc1,mp4a" />
                         <source src="video.ogg" type="video/ogg;" codecs="theora,vorbis" />
                         <source src="video.webm" type="video/webm;" codecs="vp8,vorbis" />
                     </video>
