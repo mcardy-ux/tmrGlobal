@@ -131,7 +131,7 @@
                             <i class="fal fa-book"></i>
                             Nuestros servicios
                         </p>
-                        <h3 class="title wow">Especializados en motores rusos</h3>
+                        <h3 class="title wow">Especializados en motores</h3>
                         <p style=font-size:20px>TMR S.A.S. está en capacidad técnica y administrativa de prestar los Servicios de Mantenimiento y Reparación a los motores TV3-117 series, y al motor AI-9V y los accesorios relacionados en la Lista de Capacidades, basados en programas establecidos por los fabricantes. TMR puede prestar servicios de mantenimiento de línea Clase II a los motores TV3-117 series y AI-9V y sus accesorios en las aeronaves MI8-MTV-1 y MI-171 series. 
                         
                         <br><br>TMR SAS, efectuará los trabajos de mantenimiento, mantenimiento preventivo, reparaciones y alteraciones solicitadas, sólo con personal técnico de mantenimiento debidamente licenciado.
@@ -209,7 +209,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="team_block style_2 style_3 wow fadeInDown" data-wow-delay=.20ms>
                     <div class=team_img>
-                        <img src=assets/images/team/2.JPG alt=img class=image-fit>
+                        <img src=assets/images/team/2.jpg alt=img class=image-fit>
                         <a href=apu.php class="thm-btn bg-thm-color-two thm-color-two-shadow btn-circle link">
                             <i class="fal fa-plus"></i>
                         </a>
@@ -233,7 +233,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="team_block style_2 style_3 wow fadeInDown" data-wow-delay=.40ms>
                     <div class=team_img>
-                        <img src=assets/images/team/4.JPG alt=img class=image-fit>
+                        <img src=assets/images/team/4.jpg alt=img class=image-fit>
                         <a href=banco.php class="thm-btn bg-thm-color-two thm-color-two-shadow btn-circle link">
                             <i class="fal fa-plus"></i>
                         </a>

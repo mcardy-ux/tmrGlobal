@@ -66,9 +66,7 @@ echo  '<!DOCTYPE HTML>
 <li class=menu-item>
 <a href=galery.php>GALERIA</a>
 </li>
-<li class=menu-item>
-<a href=/blog>NOTICIAS</a>
-</li>
+
 <li class=menu-item>
 <a href=sms/public>SMS</a>
 </li>
@@ -111,9 +109,6 @@ echo  '<!DOCTYPE HTML>
 </li>
 <li class=menu-item>
 <a href=galery.php style="color:#002e53">GALERIA</a>
-</li>
-<li class=menu-item>
-<a href=/blog style="color:#002e53">NOTICIAS</a>
 </li>
 <li class=menu-item>
 <a href=sms/public style="color:#002e53">SMS</a>

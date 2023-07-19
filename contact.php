@@ -37,7 +37,8 @@
                             <div class=text>
                                 <h6>Correos Electronicos</h6>
                                 <p> <a href=mailto:jpimentel@tmr.com.co style=color:#002E53!important><i class="fas fa-external-link-alt"></i> jpimentel@tmr.com.co </a><br>
-                                    <a href=mailto:jtuta@tmr.com.co style=color:#002E53!important><i class="fas fa-external-link-alt"></i> jtuta@tmr.com.co</a>
+                                    <a href=mailto:jtuta@tmr.com.co style=color:#002E53!important><i class="fas fa-external-link-alt"></i> jtuta@tmr.com.co</a><br>
+                                    <a href=mailto:flopez@tmr.com.co style=color:#002E53!important><i class="fas fa-external-link-alt"></i> flopez@tmr.com.co</a>
                                 </p>
                             </div>
                         </li>

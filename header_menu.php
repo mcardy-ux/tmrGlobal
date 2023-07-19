@@ -68,9 +68,6 @@ href="https://unpkg.com/swiper/swiper-bundle.min.css"
 <a href=galery.php>GALERIA</a>
 </li>
 <li class=menu-item>
-<a href=/blog>NOTICIAS</a>
-</li>
-<li class=menu-item>
 <a href=sms/public>SMS</a>
 </li>
 <li class=menu-item>
@@ -154,9 +151,6 @@ href="https://unpkg.com/swiper/swiper-bundle.min.css"
 </li>
 <li class=menu-item>
 <a href=galery.php style=color:#fff>GALERIA</a>
-</li>
-<li class=menu-item>
-<a href=/blog style=color:#fff>NOTICIAS</a>
 </li>
 <li class=menu-item>
 <a href=sms_report/public style=color:#fff>SMS</a>

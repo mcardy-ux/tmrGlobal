@@ -53,9 +53,6 @@ Bogotá D.C. – Colombia</a>
 <a href=# style=color:#fff!important>SMS</a>
 </li>
 <li>
-<a href=/blog style=color:#fff!important>Noticias</a>
-</li>
-<li>
 <a href=contact.php style=color:#fff!important>Contacto</a>
 </li>
 </ul>

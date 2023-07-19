@@ -12,7 +12,7 @@
                     </p>
                     <h3 class=title>TMR GLOBAL</h3>
                     <p class=mb-0 style=font-size:20px>TMR S.A.S. creado para brindar una solución a los operadores de aeronaves Mi-8/17/171 Series propulsadas con motores Modelo TV3-117 Series y sus accesorios para realizar inspección, mantenimiento, prueba funcional y reparación. Posee el único Banco de Prueba en el continente Americano, debidamente aprobado y certificado con equipos y software de última tecnología.
-                    <br> <br> El personal técnico de TMR SAS es entrenado por especialistas en diferentes fábricas de Rusia y Ucrania, con un plan de entrenamiento continuo dentro del marco de transferencia tecnológica.
+                    <br> <br> El personal técnico de TMR SAS es entrenado por especialistas en diferentes fábricas, con un plan de entrenamiento continuo dentro del marco de transferencia tecnológica.
                     </p>
                 </div>
                 <a href=services.php class="thm-btn bg-thm-color-three thm-color-three-shadow btn-rectangle wow fadeInDown">
@@ -23,7 +23,7 @@
 
             <div class=col-lg-6>
                 <div class="image_box relative z-1 text-center about_me">
-                    <img src=assets/images/about/about_me.JPG alt=img class="wow fadeInRight" style=visibility:visible;animation-name:fadeInRight;border-radius:23px>
+                    <img src=assets/images/about/about_me.jpg alt=img class="wow fadeInRight" style=visibility:visible;animation-name:fadeInRight;border-radius:23px>
                     <span class="bg-thm-color-three circle_element"></span>
                     <div class="progress_box grid wow fadeInDown" style=visibility:visible;animation-name:fadeInDown>
                         <div class=circle_bar data-percent=100 data-track-color=#ecf2ff data-bar-color=#68BC13 data-size=100>

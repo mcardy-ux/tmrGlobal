@@ -14,7 +14,7 @@
                 </div>
                 <div class="pl-0 pl-xl-5 pl-lg-3">
                     <p class="text wow fadeInUp" style=font-size:20px;text-align:justify>
-                    En el laboratorio de electricidad y electrónica con personal calificado y entrenado en la fábrica de reparación en Rusia, se inspeccionan, reparan y prueban funcionalmente los accesorios del motor y APU, utilizando los manuales y equipos recomendados por el fabricante.
+                    En el laboratorio de electricidad y electrónica con personal calificado y entrenado en la fábrica originaria, se inspeccionan, reparan y prueban funcionalmente los accesorios del motor y APU, utilizando los manuales y equipos recomendados por el fabricante.
                 </div>
             </div>
         </div>
