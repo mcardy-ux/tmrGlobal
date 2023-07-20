@@ -13,7 +13,7 @@
                             ENVÍENOS SU SOLICITUD O MENSAJE.
                         </p>
                     </div>
-                    <form class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;" method="POST">
+                    <form class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;" method="POST" action="sendmail.php">
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="form-group">
@@ -67,7 +67,6 @@
                             </div>
                         </div>
                     </form>
-                    <?php include 'sendmail.php'; ?>
                 </div>
             </div>
         </div>
