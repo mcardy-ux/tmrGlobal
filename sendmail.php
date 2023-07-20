@@ -29,7 +29,8 @@ try {
     $mail->Username = 'notify_noreply@tmr.global'; // Cambia esto por tu dirección de correo
     $mail->Password = 'Dademaro,123'; // Cambia esto por tu contraseña de correo
     $mail->Port = 465; // Puerto SMTP de Hostinger
-
+    $mail->SMTPDebug = SMTP::DEBUG_SERVER;
+    
     // Dirección de correo del remitente
     $mail->setFrom('notify_noreply@tmr.global', 'WebMail Tmr.global'); // Cambia esto por tu dirección de correo y tu nombre
 
