@@ -13,7 +13,7 @@
                             ENVÍENOS SU SOLICITUD O MENSAJE.
                         </p>
                     </div>
-                    <form class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;" action="sendmail.php">
+                    <form class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;" method="POST">
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="form-group">
@@ -63,10 +63,11 @@
                                 </div>
                             </div>
                             <div class="col-lg-12">
-                                <button type="submit" class="thm-btn bg-thm-color-three thm-color-three-shadow btn-rectangle">Enviar Mensaje <i class="fal fa-chevron-right ml-2"></i></button>
+                                <button type="submit" class="thm-btn bg-thm-color-three thm-color-three-shadow btn-rectangle" name="enviar">Enviar Mensaje <i class="fal fa-chevron-right ml-2"></i></button>
                             </div>
                         </div>
                     </form>
+                    <?php include 'sendmail.php'; ?>
                 </div>
             </div>
         </div>

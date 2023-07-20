@@ -8,6 +8,7 @@ require 'assets/php_mailer/SMTP.php';
 
 
 // Obtener los datos del formulario
+if (isset($_POST['enviar'])) {
 
 $name= $_POST['name'];
 $email= $_POST['email'];
@@ -47,6 +48,7 @@ try {
     echo "Error al enviar el correo: {$mail->ErrorInfo}";
 }
 
+}
     // // Your email here
     // $email = 'notify_noreply@tmr.global';
 
