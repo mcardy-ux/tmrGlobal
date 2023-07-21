@@ -4,21 +4,21 @@ echo '
 <html lang=es>
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=UTF-8">
-<title>TMR GLOBAL</title>
+<title>TMR</title>
 <meta name=viewport content="width=device-width, initial-scale=1">
 <meta name=description content="Expertos en mantenimiento y reparación de motores rusos. Brindamos soluciones a los operadores de aeronaves propulsadas por motores de Fabricación Rusa TV3-117 y AI-9V de manera profesional.">
-<meta name=author content="Tmr Global">
+<meta name=author content="Tmr">
 <meta name=keywords content="website, with, meta, tags">
 <meta name=robots content="noindex, follow">
 <meta name=revisit-after content="5 month">
 <meta name=image content=http://mywebsite.com/image.jpg>
-<meta name=og:title content="Tmr Global">
+<meta name=og:title content="Tmr">
 <meta name=og:description content="Expertos en mantenimiento y reparación de motores rusos. Brindamos soluciones a los operadores de aeronaves propulsadas por motores de Fabricación Rusa TV3-117 y AI-9V de manera profesional.">
 <meta name=og:image content=http://mywebsite.com/image.jpg>
-<meta name=og:site_name content="Tmr Global">
+<meta name=og:site_name content="Tmr">
 <meta name=og:type content=website>
 <meta name=twitter:card content=summary>
-<meta name=twitter:title content="Tmr Global">
+<meta name=twitter:title content="Tmr">
 <meta name=twitter:description content="Expertos en mantenimiento y reparación de motores rusos. Brindamos soluciones a los operadores de aeronaves propulsadas por motores de Fabricación Rusa TV3-117 y AI-9V de manera profesional.">
 <link rel=icon type=image/png sizes=32x32 href=favicon.ico>
 <link href=../assets/css/plugins/bootstrap.min.css rel=stylesheet>

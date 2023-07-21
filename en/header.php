@@ -3,21 +3,21 @@ echo  '<!DOCTYPE HTML>
 <html lang=en>
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=UTF-8">
-<title>GLOBAL TMR</title>
+<title>TMR</title>
 <meta name=viewport content="width=device-width, initial-scale=1">
 <meta name=description content="Created to provide a solution to aircraft powered by engines Russian manufacturing TV3-117 Series, It develop its engine repair plant in Bogotá, Colombia, owner of the only TV3-117 Series engine Test bench in the American continent.">
-<meta name=author content="Tmr Global">
+<meta name=author content="Tmr">
 <meta name=keywords content="website, aircraft, repair, motors, experts">
 <meta name=robots content="noindex, follow">
 <meta name=revisit-after content="1 month">
 <meta name=image content=http://mywebsite.com/image.jpg>
-<meta name=og:title content="Global Tmr">
+<meta name=og:title content="Tmr">
 <meta name=og:description content="Created to provide a solution to aircraft powered by engines Russian manufacturing TV3-117 Series, It develop its engine repair plant in Bogotá, Colombia, owner of the only TV3-117 Series engine Test bench in the American continent.">
 <meta name=og:image content=http://mywebsite.com/image.jpg>
-<meta name=og:site_name content="Global Tmr">
+<meta name=og:site_name content="Tmr">
 <meta name=og:type content=website>
 <meta name=twitter:card content=summary>
-<meta name=twitter:title content="Global Tmr">
+<meta name=twitter:title content="Tmr">
 <meta name=twitter:description content="Created to provide a solution to aircraft powered by engines Russian manufacturing TV3-117 Series, It develop its engine repair plant in Bogotá, Colombia, owner of the only TV3-117 Series engine Test bench in the American continent.">
 <link rel=icon type=image/png sizes=32x32 href=favicon.ico>
 
