@@ -64,7 +64,7 @@
 
                         <p class=mb-0 style=font-size:20px;text-align:justify;>
                         El personal técnico de TMR SAS es entrenado por especialistas
-                        en diferentes fábricas de Rusia y Ucrania, con un plan de
+                        en diferentes fábricas del mundo, con un plan de
                         entrenamiento continuo dentro del marco de transferencia
                         tecnológica. 
                         </p>
@@ -221,7 +221,7 @@
         <div class="row ">
             <div class="col-lg-6">
                 <div class="image_box shadow_1 mb-md-80 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-                    <video id="video" loop autoplay preload muted controls style="width:100%">
+                    <video id="video" loop autoplay preload muted controls style="width:100%" >
                         <source src="assets/images/videos/banco.mp4" type="video/mp4" ; codecs="avc1,mp4a" />
                         <source src="video.ogg" type="video/ogg;" codecs="theora,vorbis" />
                         <source src="video.webm" type="video/webm;" codecs="vp8,vorbis" />

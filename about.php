@@ -10,9 +10,10 @@
                         <i class="fal fa-book"></i>
                         Nuestra Empresa
                     </p>
-                    <h3 class=title>TMR GLOBAL</h3>
-                    <p class=mb-0 style=font-size:20px>TMR S.A.S. creado para brindar una solución a los operadores de aeronaves Mi-8/17/171 Series propulsadas con motores Modelo TV3-117 Series y sus accesorios para realizar inspección, mantenimiento, prueba funcional y reparación. Posee el único Banco de Prueba en el continente Americano, debidamente aprobado y certificado con equipos y software de última tecnología.
-                    <br> <br> El personal técnico de TMR SAS es entrenado por especialistas en diferentes fábricas, con un plan de entrenamiento continuo dentro del marco de transferencia tecnológica.
+                    <h3 class=title>TMR</h3>
+                    <p class=mb-0 style=font-size:20px>TMR S.A.S. fue creado para brindar una solución a los operadores de aeronaves Mi-8/17/171 Series propulsadas con motores Modelo TV3-117 Series y sus accesorios para realizar inspección, mantenimiento, prueba funcional y reparación a los motores.
+                    <br>Poseemos el único Banco de Prueba para motores en el continente Americano, debidamente aprobado y certificado con equipos y software de última tecnología.          
+                    <br> <br> El personal técnico de TMR SAS es entrenado por especialistas en diferentes fábricas del mundo, con un plan de entrenamiento continuo dentro del marco de transferencia tecnológica.
                     </p>
                 </div>
                 <a href=services.php class="thm-btn bg-thm-color-three thm-color-three-shadow btn-rectangle wow fadeInDown">

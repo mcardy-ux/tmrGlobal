@@ -12,7 +12,7 @@
                     <h3 class=title style=text-transform:initial;text-align:center>Reparación de motor <br>TV3 – 117 Series</h3><br>
                 </div>
                 <div class="pl-0 pl-xl-5 pl-lg-3">
-                    <p class="text wow fadeInUp" style=font-size:19px;text-align:justify>En TMR SAS somos especialistas y contamos con personal técnico competente, que ha sido preparado en los centros de instrucción de las plantas reparadoras en Rusia, y además directamente para Nuestra Compañía, trabajan Asesores Rusos que nos mantienen actualizados con los nuevos procedimientos técnicos, para poder darle un mejor soporte a Nuestros Clientes. </p>
+                    <p class="text wow fadeInUp" style=font-size:19px;text-align:justify>En TMR SAS somos especialistas y contamos con personal técnico competente, que ha sido preparado en los centros de instrucción de las plantas reparadoras, y además directamente para Nuestra Compañía, trabajan Asesores Rusos que nos mantienen actualizados con los nuevos procedimientos técnicos, para poder darle un mejor soporte a Nuestros Clientes. </p>
                 </div>
             </div>
         </div>

@@ -25,9 +25,6 @@
 <li class=filter-trigger data-filter=.inspeccion>
 <a href=#>INSPECCIÓN</a>
 </li>
-<li class=filter-trigger data-filter=.laboratorio>
-<a href=#>LABORATORIO</a>
-</li>
 </ul>
 </div>
 </div>
