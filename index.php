@@ -158,7 +158,7 @@
                         MANTENIMIENTO Y REPARACIÓN
                     </p>
                     <h3 class="title">Nuestro Compromiso</h3>
-                    <p style="font-size:20px">El Taller de Motores TMR S.A.S., se compromete a prestar los servicios de reparación y/o mantenimiento a motores de fabricación rusa y sus accesorios, buscando la satisfacción de sus clientes y partes interesadas, aplicando programas de mantenimiento establecidos por las casas fabricantes, cumpliendo con los requisitos aeronáuticos legales y reglamentarios.</p>
+                    <p style="font-size:20px">El Taller de Motores TMR S.A.S., se compromete a prestar los servicios de reparación y/o mantenimiento a motores de fabricación y sus accesorios, buscando la satisfacción de sus clientes y partes interesadas, aplicando programas de mantenimiento establecidos por las casas fabricantes, cumpliendo con los requisitos aeronáuticos legales y reglamentarios.</p>
                     <p style="font-size:20px"> Utilizamos documentación técnica del fabricante, equipos, herramientas especiales y productos aeronáuticos trazables, planificando el Sistema de Gestión de la Calidad, apoyados en gestión del riesgo para su mejoramiento continuo.</p>
                     <a href="services.php" class="thm-btn bg-thm-color-three thm-color-three-shadow btn-rounded">Ver Servicios<i class="fal fa-chevron-right ml-2"></i></a>
                 </div>
